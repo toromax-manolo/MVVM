@@ -9,14 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9D70CB48-B0DB-4366-B003-4467B2A3BB32}|MVVM_AACA\\MVVM_AACA.csproj|c:\\programas\\mvvm_aaca\\mvvm_aaca\\mvvm\\view\\comandoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9D70CB48-B0DB-4366-B003-4467B2A3BB32}|MVVM_AACA\\MVVM_AACA.csproj|solutionrelative:mvvm_aaca\\mvvm\\view\\comandoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D70CB48-B0DB-4366-B003-4467B2A3BB32}|MVVM_AACA\\MVVM_AACA.csproj|c:\\programas\\mvvm_aaca\\mvvm_aaca\\mvvm\\view\\comandoview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D70CB48-B0DB-4366-B003-4467B2A3BB32}|MVVM_AACA\\MVVM_AACA.csproj|solutionrelative:mvvm_aaca\\mvvm\\view\\comandoview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D70CB48-B0DB-4366-B003-4467B2A3BB32}|MVVM_AACA\\MVVM_AACA.csproj|c:\\programas\\mvvm_aaca\\mvvm_aaca\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D70CB48-B0DB-4366-B003-4467B2A3BB32}|MVVM_AACA\\MVVM_AACA.csproj|solutionrelative:mvvm_aaca\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,32 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Programas\\MVVM_AACA\\MVVM_AACA\\App.xaml.cs",
-              "RelativeDocumentMoniker": "MVVM_AACA\\App.xaml.cs",
-              "ToolTip": "C:\\Programas\\MVVM_AACA\\MVVM_AACA\\App.xaml.cs",
-              "RelativeToolTip": "MVVM_AACA\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T23:36:59.023Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ComandoView.xaml.cs",
-              "DocumentMoniker": "C:\\Programas\\MVVM_AACA\\MVVM_AACA\\MVVM\\View\\ComandoView.xaml.cs",
-              "RelativeDocumentMoniker": "MVVM_AACA\\MVVM\\View\\ComandoView.xaml.cs",
-              "ToolTip": "C:\\Programas\\MVVM_AACA\\MVVM_AACA\\MVVM\\View\\ComandoView.xaml.cs",
-              "RelativeToolTip": "MVVM_AACA\\MVVM\\View\\ComandoView.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T23:30:59.907Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -60,9 +28,10 @@
               "RelativeDocumentMoniker": "MVVM_AACA\\MVVM\\View\\ComandoView.xaml",
               "ToolTip": "C:\\Programas\\MVVM_AACA\\MVVM_AACA\\MVVM\\View\\ComandoView.xaml",
               "RelativeToolTip": "MVVM_AACA\\MVVM\\View\\ComandoView.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-27T23:29:45.779Z"
+              "WhenOpened": "2025-10-27T23:29:45.779Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -72,7 +41,7 @@
               "RelativeDocumentMoniker": "MVVM_AACA\\MVVM\\ViewModel\\ComandoViewModel.cs",
               "ToolTip": "C:\\Programas\\MVVM_AACA\\MVVM_AACA\\MVVM\\ViewModel\\ComandoViewModel.cs",
               "RelativeToolTip": "MVVM_AACA\\MVVM\\ViewModel\\ComandoViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwBsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T23:30:06.34Z",
               "EditorCaption": ""

@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVVM_AACA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+0e993ef79665ad513313a4a8e0a4bbf2940b47d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVVM_AACA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVVM_AACA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

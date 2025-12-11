@@ -12,6 +12,9 @@ namespace MVVM_AACA.MVVM.ViewModel
 
         public ICommand ClickCommand { get; }
 
+        public ICommand SearchCommand { get; }
+
+        public string SearchData { get; set; }
 
         public ComandoViewModel()
         {
@@ -19,7 +22,13 @@ namespace MVVM_AACA.MVVM.ViewModel
             {
                 App.Current.MainPage.DisplayAlert("Titulo", "Mensaje", "OK");
             });
-            
+
+            SearchCommand = new Command((s) =>
+            {
+                var data = s;
+
+
+            });
         }
 
         private void alert()

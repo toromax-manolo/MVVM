@@ -9,5 +9,15 @@
             Command="{Binding ClickCommand}"
             />
 
+        <SearchBar 
+            x:Name="SearchBar"
+            SearchCommand="{Binding SearchCommand}"
+            SearchCommandParameter="{Binding Source={x:Reference SearchBar,
+            Path=Text }}"
+            
+            />
+
+
+
     </VerticalStackLayout>
 </ContentPage>
